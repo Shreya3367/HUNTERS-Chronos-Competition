@@ -1,0 +1,16 @@
+https://drive.google.com/drive/folders/1p2D5PI3erS2Vb8zB2XAik1orQFRAZQjw
+
+transcription.srt : transcription with time stamps
+transcription.txt : transcription without time stamps
+
+sample.mp4: video sampel we used
+sample.wav : is the audio file of the sample video we used
+
+final.txt: is the 1st summary we found
+final_one.txt : is 2nd summary we found
+
+params.txt : parameters used
+
+https://lpzcjgap.dora.run/ : is the frontend refernce we are using as the link / website
+frontend2.txt: 2nd refernce for front end we are using , (as time was not much) 
+frontend.txt : 3rd refernce for frontend we are using

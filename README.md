@@ -14,7 +14,6 @@ WebRTC VAD (Voice Activity Detection)
 
 Whisper (OpenAI's ASR)
 
-M2M-100 (Facebook's Multilingual Translation)
 
 Models Used:
 Whisper-Large (Automatic Speech Recognition)
@@ -22,8 +21,6 @@ Whisper-Large (Automatic Speech Recognition)
 Why: State-of-the-art speech recognition with multilingual support
 
 Task: Converts Japanese audio to text
-
-M2M-100 418M (Multilingual Translation)
 
 Why: Direct Japanese→English translation without English pivoting
 
